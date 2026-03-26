@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 
 
-## 🏅 Certifications
+## Certifications
 
 <p>
   <a href="https://www.credly.com/badges/cb26fc19-4f30-4e83-aab6-c31710e386b1/public_url">
